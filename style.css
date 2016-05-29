@@ -1,12 +1,13 @@
 body {
 	-webkit-text-size-adjust: 100%;
     font-family: "KozGoPro-Light", "小塚ゴシック Pro L", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "游ゴシック", YuGothic, "メイリオ", Meiryo, sans-serif;
-}
-
-.all{
-    overflow-x: hidden;
+	overflow-x: hidden;
 }
 
 .pz {
 	padding: 0;
+}
+
+.mz {
+	margin: 0;
 }
